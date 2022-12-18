@@ -36,7 +36,7 @@ En resumen, hemos cumplido con los objetivos generales y específicos establecid
 </p>
 
 <p align='justify'>
-Esperamos que este proyecto haya sido de utilidad para la empresa y que haya ayudado a mejorar sus campañas de marketing enfocadas en cada segmento y perfil de cliente. Estamos dispuestos a seguir trabajando en futuros proyectos y a seguir ofreciendo nuestros servicios de consultoría de Data Science puedes revisar más proyectos en <a href="https://royquillca.github.io/portfolio/">royquillca/portfolio</a></p>
+Esperamos que este proyecto haya sido de utilidad para la empresa y que haya ayudado a mejorar sus campañas de marketing enfocadas en cada segmento y perfil de cliente. Estamos dispuestos a seguir trabajando en futuros proyectos y a seguir ofreciendo nuestros servicios de consultoría de Data Science puedes revisar más proyectos en <a href="https://royquillca.github.io/portafolio/#portafolio">Portafolio de Roy Quillca</a></p>
 
 <p align='justify'>
 Así mismo puedes ya revisar la situacion problemática y los objetivos establecidos así como el código y su respectiva implementación en el <a href="https://github.com/royquillca/segmentacion_mkt/blob/main/mkt.ipynb">NoteBook de Segmentación de Clientes con Machine Learning y Deep Learning - Marketing</a>
